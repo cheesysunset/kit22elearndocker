@@ -13,7 +13,7 @@ services:
   #   build:
   #     context: ./docker
   #     dockerfile: apache.dockerfile
-  #   image: kasparsu/kit22learndocker:latest
+  #   image: cheesysunset/kit22learndocker:latest
   #   ports:
   #     - 8000:80
     # volumes:
